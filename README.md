@@ -17,3 +17,6 @@
 
     - dotnet restore -> Pode ser usado  para restaurar dependencias de um projeto copiado ou clonado
 
+    - dotnet list package --outdated -> Verifica versoes dos pacotes
+
+

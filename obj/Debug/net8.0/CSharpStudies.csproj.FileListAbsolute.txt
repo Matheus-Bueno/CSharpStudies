@@ -58,3 +58,9 @@ c:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\obj\Debug\net8.0\refint\CS
 c:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\obj\Debug\net8.0\CSharpStudies.pdb
 C:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\obj\Debug\net8.0\CSharpStudies.genruntimeconfig.cache
 C:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\obj\Debug\net8.0\ref\CSharpStudies.dll
+c:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\bin\Debug\net8.0\az\Humanizer.resources.dll
+c:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\bin\Debug\net8.0\hy\Humanizer.resources.dll
+c:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\bin\Debug\net8.0\is\Humanizer.resources.dll
+c:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+c:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\bin\Debug\net8.0\ku\Humanizer.resources.dll
+c:\Users\Matheus\Documents\MeusProjetos\CSharpStudies\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
