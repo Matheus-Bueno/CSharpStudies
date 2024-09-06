@@ -1,12 +1,12 @@
 # CSharpStudies
- Estudos em C#
-
 Coletânia de exercicios e projetos para estudar
 
-Na Sua maioria são Exercicios do Microsoft Learn, Coddy Tech e Udemy
+# Exercicios
+Cody Tech
+    Exercicio 1 -> Variaveis
+    Exercicio 2 -> Operadores
 
-
- -> Comandos dotnet CLI
+# Comandos dotnet CLI
     - dotnet --list-sdks -> Lista os sdks
 
     - dotnet run -> Executa
