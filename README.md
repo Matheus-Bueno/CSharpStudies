@@ -1,7 +1,10 @@
 # CSharpStudies
  Estudos em C#
 
- Coletânia de exercicios e projetos para estudar
+Coletânia de exercicios e projetos para estudar
+
+Na Sua maioria são Exercicios do Microsoft Learn, Coddy Tech e Udemy
+
 
  -> Comandos dotnet CLI
     - dotnet --list-sdks -> Lista os sdks
