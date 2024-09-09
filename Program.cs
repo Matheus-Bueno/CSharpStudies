@@ -15,16 +15,22 @@ class Program
         switch(categoria)
         {
             case "1":
-                Console.WriteLine("Escolha o exercicio desejado de Microsoft Learn ");
+                Console.WriteLine("Escolha o exercicio desejado de Cody Tech ");
+                Console.WriteLine("1 - Variáveis");
+                Console.WriteLine("2 - Operadores");
+                Console.WriteLine("3 - Condicionais");
                 string escolha = Console.ReadLine() ?? string.Empty;
                 if (escolha == "1")
-                    Exercicio1.Executar();
+                    Variables.Executar();
                 
                 if (escolha == "2")
-                    Exercicio2.Executar();
+                    Operators.Executar();
+
+                if (escolha == "3")
+                    Condicionais.Executar();
                 break;
             case "2":
-                Console.WriteLine("Escolha o exercicio desejado de Cody Tech ");
+                Console.WriteLine("Escolha o exercicio desejado de Microsoft Learn ");
                 string escolhaLoop = Console.ReadLine() ?? string.Empty;
                 if (escolhaLoop == "1")
                     

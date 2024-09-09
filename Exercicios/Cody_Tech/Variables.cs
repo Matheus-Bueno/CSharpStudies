@@ -1,6 +1,6 @@
 namespace CSharpStudies.Exercicios.Cody_Tech
 {
-    public class Exercicio2
+    public class Variables
     {
         public static void Executar()
         {
