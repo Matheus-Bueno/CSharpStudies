@@ -1,4 +1,5 @@
 ﻿using CSharpStudies.Exercicios.Cody_Tech;
+using CSharpStudies.Exercicios.Udemy;
 
 class Program
 {
@@ -39,10 +40,13 @@ class Program
 
             case "3":
                 Console.WriteLine("Escolha o exercicio desejado de Udemy ");
+                Console.WriteLine("1 - Estrutura Sequencial");
+                Console.WriteLine("2 - Operadores");
+                Console.WriteLine("3 - Condicionais");
                 string escolhaloop = Console.ReadLine() ?? string.Empty;
 
                 if (escolhaloop == "1") 
-                    Console.WriteLine();
+                    EstruturasSequenciais.Executar();
                 break;
             default:
                 Console.WriteLine("Opção inválida!");
