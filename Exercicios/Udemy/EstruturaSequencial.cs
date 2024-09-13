@@ -24,7 +24,7 @@ namespace CSharpStudies.Exercicios.Udemy
 
             double result = (raio * raio) * 3.14159;
 
-            Console.WriteLine($"A={result}"); //Não sei formatar o numero de casas, sem internet pra pesquisar =´(*/
+            Console.WriteLine($"A={result:f4}"); */
 
             //Exercício 03
             //Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
@@ -44,7 +44,17 @@ namespace CSharpStudies.Exercicios.Udemy
 
             //Exercício 04
             //Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casasdecimais.
-            
+
+            /*Console.WriteLine("Informe o Numero do Funcionario");
+            int numFunc = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Informe o Numero de horas Trabalhadas");
+            int horas = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Informe o Valor da hora");
+            double valorHora = Convert.ToDouble(Console.ReadLine());
+
+
+            Console.WriteLine($"Numero = {numFunc}");
+            Console.WriteLine($"Salário = R$ {horas * valorHora:F2}");*/
         }
     }
 }
