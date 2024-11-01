@@ -18,13 +18,14 @@ namespace CSharpStudies.Exercicios.Udemy
             double preco2 = 650.50;
             double media = 53.234567;
 
-
+            //interpolação
             Console.WriteLine("Produtos:");
             Console.WriteLine($"{produto1}, cujo preço é ${preco1:F2}");
             Console.WriteLine($"{produto2}, cujo preço é ${preco2:F2}");
             Console.WriteLine("");
             Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e gênero: {genero}");
             Console.WriteLine("");
+            //Placeholders
             Console.WriteLine("Medida com oito casas decimais: {0:F8}", media);
             Console.WriteLine("Arredondamento (três casas decimais): {0:F3}", media);
             Console.WriteLine("Separador decimal invariant culture: {0}", media.ToString("F3", CultureInfo.InvariantCulture));

@@ -2,9 +2,10 @@
 Coletânia de exercicios e projetos para estudar
 
 # Exercicios
-Cody Tech
-    - Exercicio 1 -> Variaveis
-    - Exercicio 2 -> Operadores
+Udemy
+    - Exercicio 1 -> Lista EstruturaSequencial
+    - Exercicio 2 -> Formatação de String
+
 
 # Comandos dotnet CLI
     - dotnet --list-sdks -> Lista os sdks

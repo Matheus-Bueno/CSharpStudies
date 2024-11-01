@@ -1,5 +1,4 @@
-﻿using CSharpStudies.Exercicios.Cody_Tech;
-using CSharpStudies.Exercicios.Udemy;
+﻿using CSharpStudies.Exercicios.Udemy;
 
 class Program
 {
@@ -22,14 +21,13 @@ class Program
                 Console.WriteLine("3 - Condicionais");
                 string escolha = Console.ReadLine() ?? string.Empty;
                 if (escolha == "1")
-                    Variables.Executar();
-                
+                    Console.WriteLine("Em construção XD");
                 if (escolha == "2")
-                    Operators.Executar();
-
+                    Console.WriteLine("Em construção XD");
                 if (escolha == "3")
-                    Condicionais.Executar();
+                    Console.WriteLine("Em construção XD");
                 break;
+                
             case "2":
                 Console.WriteLine("Escolha o exercicio desejado de Microsoft Learn ");
                 string escolhaLoop = Console.ReadLine() ?? string.Empty;
