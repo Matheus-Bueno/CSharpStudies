@@ -34,19 +34,20 @@ class Program
                 Console.WriteLine("Escolha o exercicio desejado de Microsoft Learn ");
                 string escolhaLoop = Console.ReadLine() ?? string.Empty;
                 if (escolhaLoop == "1")
-                    
-                    Console.WriteLine();
+                    Console.WriteLine("Em construção XD");
                 break;
 
             case "3":
                 Console.WriteLine("Escolha o exercicio desejado de Udemy ");
                 Console.WriteLine("1 - Estrutura Sequencial");
-                Console.WriteLine("2 - Operadores");
-                Console.WriteLine("3 - Condicionais");
+                Console.WriteLine("2 - Formatação de Strings");
                 string escolhaloop = Console.ReadLine() ?? string.Empty;
 
                 if (escolhaloop == "1") 
                     EstruturasSequenciais.Executar();
+                
+                if (escolhaloop == "2") 
+                    FormatacaoStrings.Executar();
                 break;
             default:
                 Console.WriteLine("Opção inválida!");

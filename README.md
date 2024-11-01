@@ -3,7 +3,7 @@ Coletânia de exercicios e projetos para estudar
 
 # Exercicios
 Cody Tech
-    -  Exercicio 1 -> Variaveis
+    - Exercicio 1 -> Variaveis
     - Exercicio 2 -> Operadores
 
 # Comandos dotnet CLI
